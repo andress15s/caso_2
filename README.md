@@ -1,2 +1,2 @@
 # caso_2
-![diagrama](diagrama.png)
+![diagrama](diagrama.image)
